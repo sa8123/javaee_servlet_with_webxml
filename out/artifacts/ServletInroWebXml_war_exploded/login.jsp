@@ -11,10 +11,9 @@
     <title>$Title$</title>
   </head>
   <body>
-  Welcome to the Servlet Page
-  call add page  <a href="/add">ADD</a>
 
-  call add page  <a href="/sub">Subtract</a>
-
+  <form method="post" action="/login">
+    User: <input type="text" name="txtUser">
+  </form>
   </body>
 </html>

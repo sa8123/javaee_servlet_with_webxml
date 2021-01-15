@@ -12,7 +12,6 @@
   </head>
   <body>
   Welcome to the Servlet Page
-
   call add page  <a href="/add">ADD</a>
 
   call add page  <a href="/sub">Subtract</a>
